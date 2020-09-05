@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to Neko- ekhm I mean my profile.
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfianAH&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianAH&layout=compact&theme=radical" />
+</a>
 
 <!--
 **alfianAH/alfianAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
