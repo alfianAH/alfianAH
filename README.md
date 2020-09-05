@@ -1,4 +1,4 @@
-### Welcome to Neko- ekhm I mean my profile.
+### Welcome to ~~Maid Cafe~~ my profile.
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfianAH&theme=radical" />
