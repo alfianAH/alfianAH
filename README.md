@@ -8,6 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianAH&layout=compact&theme=radical" />
 </a>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alfianAH)
+
 <!--
 **alfianAH/alfianAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
