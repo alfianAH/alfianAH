@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianAH&layout=compact&theme=radica&langs_count=8&hide=htmll" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianAH&layout=compact&theme=radical&langs_count=8&hide=html,css" />
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alfianAH)
